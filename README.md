@@ -68,13 +68,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (16th April 2022 to 9th September 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
+The skills I developed during my time at Makers far exceeded my expectations going into this coding bootcamp. It wasn't learning how to code that I found the most beneficial but rather the array of soft skills and industry best practices that I picked up.
+
+- Used TDD on every project, learnt multiple testing frameworks and the importance of testing in industry software.
+- Working with different people on group projects taught me a lot about communication and how to work with different types of personalities effectively.
+- Frequently paired with people on challenging tasks…
+- Picked up new programming languages and frameworks for specific projects.
+
 
 #### Exeter University (September 2017 to August 2020)
 
