@@ -43,17 +43,20 @@ to construction on skyscrapers.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+# Hard Skills
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+- Object-Oriented Programming (OOP)
+- TDD
+- Ruby
+- React
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+- RSpec
+- Jest
+- MERN Stack
 
 
 #### This Skill
