@@ -1,8 +1,6 @@
 ## Paris Monson
-I am driven, a fast learner and eager to develop my skills and experience. I have a passion for learning and pride myself on always knowing more at the end of 
-the day than at the start.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Motivated Web Development Bootcamp graduate with fundamental knowledge of software design, development and testing. Seeking to utilize broad educational background with excellent analytical, technical and programming skills to thrive as an entry level software engineer. I am skilled at writing well-designed, testable and efficient code using current best practices in Web development.
 
 ## Projects
 
@@ -15,6 +13,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
+**Service Industry** (May 2021 to March 2022)  
+_Team Member_
+
+- Worked in various service industry jobs.
+
 **Tutoring(Kenya)** (September 2020 to January 2021)  
 _Private Tutor_
 
@@ -22,18 +25,21 @@ _Private Tutor_
 - Liaising with parents & school
 - Assisting with IT issues
 
+**Wild Wood Adventure** (February 2017 to August 2017)  
+_Instructor_
+
+- Instructing on a children’s high ropes course.
+- Conducting safety briefings.
+- Assisting participants who became stuck or needed
+rescuing.
+
+
 **The Work and Travel Company 
 (Australia)** (January 2015 to July 2016)  
-_Your job title_
 
 - Working in numerous different fields from sales jobs 
 to construction on skyscrapers.
 - House and office removals.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
