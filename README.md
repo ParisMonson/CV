@@ -1,6 +1,6 @@
 ## Paris Monson
 
-Motivated Web Development Bootcamp graduate with fundamental knowledge of software design, development and testing. Seeking to utilize broad educational background with excellent analytical, technical and programming skills to thrive as an entry level software engineer. I am skilled at writing well-designed, testable and efficient code using current best practices in Web development.
+Motivated Web Development Bootcamp graduate with fundamental knowledge of software design, development and testing. Seeking to utilize broad educational background with excellent analytical, technical and programming skills to thrive as an entry level software engineer. I am skilled at writing well-designed, testable and efficient code using current best practices in Web development. Having finally found the thing that doesn't feel like work! I am looking for my first software engineering role.
 
 ## Projects
 
@@ -58,44 +58,22 @@ to construction on skyscrapers.
 - Jest
 - MERN Stack
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (16th April 2022 to 9th September 2022)
 
 The skills I developed during my time at Makers far exceeded my expectations going into this coding bootcamp. It wasn't learning how to code that I found the most beneficial but rather the array of soft skills and industry best practices that I picked up.
 
-- Used TDD on every project, learnt multiple testing frameworks and the importance of testing in industry software.
+- Used TDD on every project, learnt multiple testing frameworks and the importance of testing in the Software Development Life Cycle.
 - Working with different people on group projects taught me a lot about communication and how to work with different types of personalities effectively.
-- Frequently paired with people on challenging tasks…
+- Frequently paired with people on challenging tasks.
 - Picked up new programming languages and frameworks for specific projects.
-
 
 #### Exeter University (September 2017 to August 2020)
 
 - BA Politics and International Relations
 - 2:1
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I like to play video games, Chess and go to the gym. Also interested in current affairs.
