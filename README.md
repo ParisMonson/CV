@@ -86,4 +86,4 @@ The skills I developed during my time at Makers far exceeded my expectations goi
 
 ## Hobbies
 
-I like to play video games, Chess and go to the gym. Also interested in current affairs.
+I am constantly finding new things that interest me and my interest's are always evolving. I have recently started playing Chess and am obsessed about it at the moment! I like to meditate and go to the gym before I start my day and am really interested in learning about the world in general so podcasts like the Lex Fridman podcast are a regular listen for me.  
