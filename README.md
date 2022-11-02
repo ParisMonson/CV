@@ -2,6 +2,10 @@
 
 Motivated Web Development Bootcamp graduate with fundamental knowledge of software design, development and testing. Seeking to utilize broad educational background with excellent analytical, technical and programming skills to thrive as an entry level software engineer. I am skilled at writing well-designed, testable and efficient code using current best practices in Web development. Having finally found the thing that doesn't feel like work! I am looking for my first software engineering role.
 
+After completing my degree in Politics & IR, I realised that the corporate graduate schemes were not for me. I spent 2 years supporting myself doing a variety of short term jobs, from being a waiter to working in construction. All of them involved working collaboratively, using critical thinking skills honed at University to problem solve and get the job done most efficiently. In my spare time, I kept up my aim to learn to code, an interest I'd developed during Covid Lockdown.
+
+After extensive research and sole searching, I reached the conclusion, that not only was I particularly interested in coding and software engineering but my character and skills suit an industry that values logical thinking and problem solving skills, as well as life long learning, which I value highly as I am always looking to do something new.
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
