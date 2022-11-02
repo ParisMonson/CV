@@ -4,7 +4,7 @@ Motivated Web Development Bootcamp graduate with fundamental knowledge of softwa
 
 After completing my degree in Politics & IR, I realised that the corporate graduate schemes were not for me. I spent 2 years supporting myself doing a variety of short term jobs, from being a waiter to working in construction. All of them involved working collaboratively, using critical thinking skills honed at University to problem solve and get the job done most efficiently. In my spare time, I kept up my aim to learn to code, an interest I'd developed during Covid Lockdown.
 
-After extensive research and sole searching, I reached the conclusion, that not only was I particularly interested in coding and software engineering but my character and skills suit an industry that values logical thinking and problem solving skills, as well as life long learning, which I value highly as I am always looking to do something new.
+After extensive research and sole searching, I reached the conclusion, that not only was I particularly interested in coding and software engineering but my character and skills suit an industry that values logical thinking and problem solving skills, as well as life long learning, which I value highly as I am always looking to do something new and challenge myself.
 
 ## Projects
 
