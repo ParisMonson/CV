@@ -58,6 +58,16 @@ to construction on skyscrapers.
 - Jest
 - MERN Stack
 
+# Soft Skills
+
+- Calm under pressure
+- Detail oriented
+- Analytical
+- Logical Thinking
+- Inventive
+- Resourceful
+- Global background
+
 ## Education
 
 #### Makers Academy (16th April 2022 to 9th September 2022)
