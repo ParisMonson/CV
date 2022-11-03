@@ -6,7 +6,7 @@ After completing my degree in Politics & IR, I realised that the corporate gradu
 
 After extensive research and sole searching, I reached the conclusion, that not only was I particularly interested in coding and software engineering but my character and skills suit an industry that values logical thinking and problem solving skills, as well as life long learning, which I value highly as I am always looking to do something new and challenge myself.
 
-## Projects
+# Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -14,6 +14,33 @@ After extensive research and sole searching, I reached the conclusion, that not 
 | **[Acebook](https://github.com/ParisMonson/acebook-the-pyjamas)** | A group project where we built a simple clone of Facebook | Express, Node.js, Jest, Cypress, MongoDB    |
 | **[Game of Life](https://github.com/ParisMonson/game_of_life)** | My solution to the Game of Life tech test | Ruby, Rspec             |
 | **[Bank Tech Test](https://github.com/ParisMonson/bank-tech-test)** | My solution to the Bank tech test |    Ruby, Rspec          |
+
+# Skills
+
+## Hard Skills
+
+- Object-Oriented Programming (OOP)
+- TDD
+- Ruby
+- React
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+- RSpec
+- Jest
+- MERN Stack
+
+## Soft Skills
+
+- Calm under pressure
+- Detail oriented
+- Analytical
+- Logical Thinking
+- Inventive
+- Resourceful
+- Global background
 
 ## Work Experience
 
@@ -45,34 +72,7 @@ rescuing.
 to construction on skyscrapers.
 - House and office removals.
 
-## Skills
-
-# Hard Skills
-
-- Object-Oriented Programming (OOP)
-- TDD
-- Ruby
-- React
-- JavaScript
-- Node.js
-- Express
-- MongoDB
-- PostgreSQL
-- RSpec
-- Jest
-- MERN Stack
-
-# Soft Skills
-
-- Calm under pressure
-- Detail oriented
-- Analytical
-- Logical Thinking
-- Inventive
-- Resourceful
-- Global background
-
-## Education
+# Education
 
 #### Makers Academy (16th April 2022 to 9th September 2022)
 
