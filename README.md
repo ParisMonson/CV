@@ -1,4 +1,6 @@
-## Paris Monson
+# Paris Monson
+
+# About Me
 
 Motivated Web Development Bootcamp graduate with fundamental knowledge of software design, development and testing. Seeking to utilize broad educational background with excellent analytical, technical and programming skills to thrive as an entry level software engineer. I am skilled at writing well-designed, testable and efficient code using current best practices in Web development. Having finally found the thing that doesn't feel like work! I am looking for my first software engineering role.
 
@@ -15,12 +17,7 @@ After extensive research and sole searching, I reached the conclusion, that not 
 | **[Game of Life](https://github.com/ParisMonson/game_of_life)** | My solution to the Game of Life tech test | Ruby, Rspec             |
 | **[Bank Tech Test](https://github.com/ParisMonson/bank-tech-test)** | My solution to the Bank tech test |    Ruby, Rspec          |
 
-# Skills
-
-## Hard Skills
-
-- Object-Oriented Programming (OOP)
-- TDD
+# Technologies
 - Ruby
 - React
 - JavaScript
@@ -32,37 +29,52 @@ After extensive research and sole searching, I reached the conclusion, that not 
 - Jest
 - MERN Stack
 
-## Soft Skills
+# Skills
 
-- Calm under pressure
-- Detail oriented
+## Hard Skills
+- Object-Oriented Programming (OOP)
+- Test Driven Development (TDD)
+- Model View Controller Design (MVC)
+
+## Soft Skills
+- Calm under pressure 
 - Analytical
 - Logical Thinking
 - Inventive
 - Resourceful
-- Global background
+- Global Background
 
 ## Work Experience
 
 **Service Industry** (May 2021 to March 2022)  
 _Team Member_
 
-- Worked in various service industry jobs.
+- Serving customers & dealing with problems
+- Mentoring & training new hires
+- Sharing feedback with colleagues
+- Collaborating on best practices
+- Communicating customers, Head Office and HR
+
 
 **Tutoring(Kenya)** (September 2020 to January 2021)  
 _Private Tutor_
 
 - Motivating students
-- Liaising with parents & school
+- Communicating with school teachers
+- Liaising with parents
 - Assisting with IT issues
+- Teaching time management skills
+
 
 **Wild Wood Adventure** (February 2017 to August 2017)  
 _Instructor_
 
-- Instructing on a children’s high ropes course.
-- Conducting safety briefings.
-- Assisting participants who became stuck or needed
-rescuing.
+- Instructing on a children’s high ropes course
+- Conducting safety briefings
+- Assisting participants
+- Collaborating on best practice
+- Training new staff
+
 
 
 **The Work and Travel Company 
@@ -90,4 +102,4 @@ The skills I developed during my time at Makers far exceeded my expectations goi
 
 ## Hobbies
 
-I am constantly finding new things that interest me and my interest's are always evolving. I have recently started playing Chess and am obsessed about it at the moment! I like to meditate and go to the gym before I start my day and am really interested in learning about the world in general so podcasts like the Lex Fridman podcast are a regular listen for me.  
+I am always finding new things that interest me and my interest's are always evolving. I have recently started playing Chess, I like to meditate and go to the gym before I start my day and am really interested in learning about the world in general so podcasts on scientific topics appeal to me.  
