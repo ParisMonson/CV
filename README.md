@@ -2,11 +2,10 @@
 
 # About Me
 
-Motivated Web Development Bootcamp graduate with fundamental knowledge of software design, development and testing. Seeking to utilize broad educational background with excellent analytical, technical and programming skills to thrive as an entry level software engineer. I am skilled at writing well-designed, testable and efficient code using current best practices in Web development. Having finally found the thing that doesn't feel like work! I am looking for my first software engineering role.
+I am a motivated web development bootcamp graduate with a sound knowledge of software design, development and testing. Skilled at writing well-designed, testable and efficient code whilst using current best practices in Web Development. I am currently seeking to utilize my broad educational background along with strong analytical, technical and programming skills to thrive as an entry level Software Engineer.
 
-After completing my degree in Politics & IR, I realised that the corporate graduate schemes were not for me. I spent 2 years supporting myself doing a variety of short term jobs, from being a waiter to working in construction. All of them involved working collaboratively, using critical thinking skills honed at University to problem solve and get the job done most efficiently. In my spare time, I kept up my aim to learn to code, an interest I'd developed during Covid Lockdown.
-
-After extensive research and sole searching, I reached the conclusion, that not only was I particularly interested in coding and software engineering but my character and skills suit an industry that values logical thinking and problem solving skills, as well as life long learning, which I value highly as I am always looking to do something new and challenge myself.
+After completing my degree in Politics & International Relations at the University of Exeter during the pandemic, I spent 2 years working in the service sector. My roles involved using critical thinking skills, honed at University, to problem solve and get the job done most efficiently. In my spare time, I furthered my aim to learn to code, an interest I had developed during the pandemic period. As my interest and knowledge of coding and software engineering developed it felt such a natural fit that I looked for a way to retrain. I truly feel my character and skills suit an industry that values logical thinking and problem solving skills. The evolutionary nature of software development and the need to stay up to date and push boundaries make this an exciting industry in which to grow my career. 
+ something new and challenge myself.
 
 # Projects
 
@@ -37,12 +36,12 @@ After extensive research and sole searching, I reached the conclusion, that not 
 - Model View Controller Design (MVC)
 
 ## Soft Skills
-- Calm under pressure 
-- Analytical
-- Logical Thinking
-- Inventive
-- Resourceful
-- Global Background
+- ### Critical Thinking 
+Critical thinkng is a key asset I have developed particularly through my studies and coursework at university. Learning to observe and interpret issues from a range of angles has led me to improve my analytical thinking. Once solutions become clear, high quality communication is imperative to bring about change. 
+- ### Team Player
+Working in the service industry for over a year, being a communicative teamplayer was essential. My colleagues and I worked collaboratively to develop strategies to achieve the sales goals at Greggs Bakery. Whilst at Wild Wood, where an open communication was valued, I worked with my team to increase footfall. 
+- ### Calm under pressure 
+I stay calm when working towards a tight deadline. I am very good at breaking tasks down into smaller manageable parts, prioritizing and then focusing on what needs to be done to achieve the goal. This is one of my biggest strengths and was invaluable during my intensive 16 week coding bootcamp with Makers.
 
 ## Work Experience
 
