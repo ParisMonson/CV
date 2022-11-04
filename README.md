@@ -96,9 +96,14 @@ The skills I developed during my time at Makers far exceeded my expectations goi
 
 #### Exeter University (September 2017 to August 2020)
 
-- BA Politics and International Relations
-- 2:1
+- BA Politics and International Relations (2:1)
+- Developed analytical skills to solve problems, process information and make informed decisions. 
+Gained a deeper understanding of global issues, cross-cutural understanding and awareness of what’s happening in the world as well as an understanding of how society and people work.
 
-# Hobbies
 
-I am always finding new things that interest me and my interest's are always evolving. I have recently started playing Chess, I like to meditate and go to the gym before I start my day and am really interested in learning about the world in general so podcasts on scientific topics appeal to me.  
+# Interests
+
+I have an inquisitive mind that I like to keep busy, so I listen to podcasts and read numerous blogs on all sorts of different subjects, from current affairs, x to tech.  Learning about the world in general has always been an interest of mine, so podcasts like Lex Friedman’s, where he interviews a wide variety of guests are a regular listen for me.
+
+I enjoy switching off by playing chess or sports and I like to meditate before I start my day.  I’m a keen footballer and keep fit at the gym.
+ 
