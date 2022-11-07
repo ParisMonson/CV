@@ -1,4 +1,4 @@
-# Paris Monson
+<h1 align="center">Paris Monson</h1>
 
 <h3 align="center"><a href="#aboutme">About Me</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#work">Work Experience</a> | <a href="#education">Education</a> | <a href="#interests">Interests</a></h3>
 
