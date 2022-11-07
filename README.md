@@ -1,6 +1,6 @@
 # Paris Monson
 
-<h3 align="center"><a href="#aboutme">About Me</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#work">Work Experience</a> | <a href="#hobbies">Interests</a></h3>
+<h3 align="center"><a href="#aboutme">About Me</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#work">Work Experience</a> | <a href="#education"> | <a href="#interests">Interests</a></h3>
 
 
 <h1 id="aboutme">About Me</h1>
@@ -10,7 +10,7 @@ I am a motivated web development bootcamp graduate with a sound knowledge of sof
 After completing my degree in Politics & International Relations at the University of Exeter during the pandemic, I spent 2 years working in the service sector. My roles involved using critical thinking skills, honed at University, to problem solve and get the job done most efficiently. In my spare time, I furthered my aim to learn to code, an interest I had developed during the pandemic period. As my interest and knowledge of coding and software engineering developed it felt such a natural fit that I looked for a way to retrain. I truly feel my character and skills suit an industry that values logical thinking and problem solving skills. The evolutionary nature of software development and the need to stay up to date and push boundaries make this an exciting industry in which to grow my career. 
 
 
-# Projects
+<h1 id="projects">Projects</h1>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -31,7 +31,7 @@ After completing my degree in Politics & International Relations at the Universi
 - Jest
 - MERN Stack
 
-# Skills
+<h1 id="skills">Skills</h1>
 
 ## Hard Skills
 - Object-Oriented Programming (OOP)
@@ -46,7 +46,7 @@ Working in the service industry for over a year, being a communicative teamplaye
 - ### Calm under pressure 
 I stay calm when working towards a tight deadline. I am very good at breaking tasks down into smaller manageable parts, prioritizing and then focusing on what needs to be done to achieve the goal. This is one of my biggest strengths and was invaluable during my intensive 16 week coding bootcamp with Makers.
 
-## Work Experience
+<h1 id="work">Work Experience</h1>
 
 **Service Industry** (May 2021 to March 2022)  
 _Team Member_
@@ -86,7 +86,7 @@ _Instructor_
 to construction on skyscrapers.
 - House and office removals.
 
-# Education
+<h1 id="education">Education</h1>
 
 #### Makers Academy (16th April 2022 to 9th September 2022)
 
@@ -104,7 +104,7 @@ The skills I developed during my time at Makers far exceeded my expectations goi
 Gained a deeper understanding of global issues, cross-cutural understanding and awareness of what’s happening in the world as well as an understanding of how society and people work.
 
 
-# Interests
+<h1 id="interests">Interests</h1>
 
 I have an inquisitive mind that I like to keep busy, so I listen to podcasts and read numerous blogs on all sorts of different subjects, from current affairs, and psychology, to tech.  Learning about the world in general has always been an interest of mine, so podcasts like Lex Friedman’s, where he interviews a wide variety of guests are a regular listen for me.
 
