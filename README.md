@@ -5,7 +5,7 @@
 I am a motivated web development bootcamp graduate with a sound knowledge of software design, development and testing. Skilled at writing well-designed, testable and efficient code whilst using current best practices in Web Development. I am currently seeking to utilize my broad educational background along with strong analytical, technical and programming skills to thrive as an entry level Software Engineer.
 
 After completing my degree in Politics & International Relations at the University of Exeter during the pandemic, I spent 2 years working in the service sector. My roles involved using critical thinking skills, honed at University, to problem solve and get the job done most efficiently. In my spare time, I furthered my aim to learn to code, an interest I had developed during the pandemic period. As my interest and knowledge of coding and software engineering developed it felt such a natural fit that I looked for a way to retrain. I truly feel my character and skills suit an industry that values logical thinking and problem solving skills. The evolutionary nature of software development and the need to stay up to date and push boundaries make this an exciting industry in which to grow my career. 
- something new and challenge myself.
+
 
 # Projects
 
@@ -52,7 +52,7 @@ _Team Member_
 - Mentoring & training new hires
 - Sharing feedback with colleagues
 - Collaborating on best practices
-- Communicating customers, Head Office and HR
+- Communicating with customers, Head Office and HR
 
 
 **Tutoring(Kenya)** (September 2020 to January 2021)  
@@ -103,7 +103,7 @@ Gained a deeper understanding of global issues, cross-cutural understanding and 
 
 # Interests
 
-I have an inquisitive mind that I like to keep busy, so I listen to podcasts and read numerous blogs on all sorts of different subjects, from current affairs, x to tech.  Learning about the world in general has always been an interest of mine, so podcasts like Lex Friedman’s, where he interviews a wide variety of guests are a regular listen for me.
+I have an inquisitive mind that I like to keep busy, so I listen to podcasts and read numerous blogs on all sorts of different subjects, from current affairs, and psychology, to tech.  Learning about the world in general has always been an interest of mine, so podcasts like Lex Friedman’s, where he interviews a wide variety of guests are a regular listen for me.
 
 I enjoy switching off by playing chess or sports and I like to meditate before I start my day.  I’m a keen footballer and keep fit at the gym.
  
