@@ -1,6 +1,9 @@
 # Paris Monson
 
-# About Me
+<h3 align="center"><a href="#aboutme">About Me</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#work">Work Experience</a> | <a href="#hobbies">Interests</a></h3>
+
+
+<h1 id="aboutme">About Me</h1>
 
 I am a motivated web development bootcamp graduate with a sound knowledge of software design, development and testing. Skilled at writing well-designed, testable and efficient code whilst using current best practices in Web Development. I am currently seeking to utilize my broad educational background along with strong analytical, technical and programming skills to thrive as an entry level Software Engineer.
 
