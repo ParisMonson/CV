@@ -51,14 +51,14 @@ I stay calm when working towards a tight deadline. I am very good at breaking ta
 **Wondr Medical** (December 2022 - Present)  
 _Junior Developer_
 
-- Developed secure and compliant web and mobile app using Ruby on Rails and React-Native, demonstrating full-stack proficiency.
+- Developed secure and compliant web and mobile app using **Ruby on Rails** and **React-Native**, demonstrating full-stack proficiency.
 - Collaborated effectively with Product team, providing regular updates on ticket ETAs and proactively communicating technical challenges to ensure successful implementation of product vision.
-- Utilised Expo's Bare workflow to build app binaries with EAS including with some native code implementation.
-- Worked with the Amazon Chime SDK to support the app's video chat feature.
-- Integrated the Detox testing framework for local e2e testing.
-- Deploy to AWS staging environments and trigger mobile app OTA updates.
-- Write unit tests with minitest.
-- Worked within an Agile Scrum team, working in a squad-based system.
+- Utilised **Expo's** Bare workflow to build app binaries with **EAS** including with some native code implementation.
+- Worked with the Amazon **Chime SDK** to support the app's video chat feature.
+- Integrated the **Detox** testing framework for local e2e testing.
+- Deploy to **AWS** staging environments and trigger mobile app OTA updates.
+- Write unit tests with **minitest**.
+- Worked within an **Agile** Scrum team, working in a squad-based system.
 - Conduct regular code review's
 - Manual QA testing
 - Conducted ticket demo's to display completed work to relevant stakeholders
