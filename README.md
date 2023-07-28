@@ -48,47 +48,25 @@ I stay calm when working towards a tight deadline. I am very good at breaking ta
 
 <h1 id="work">Work Experience</h1>
 
-**Service Industry** (May 2021 to March 2022)  
-_Team Member_
+**Wondr Medical** (December 2022 - Present)  
+_Junior Developer_
 
-- Serving customers & dealing with problems
-- Mentoring & training new hires
-- Sharing feedback with colleagues
-- Collaborating on best practices
-- Communicating with customers, Head Office and HR
-
-
-**Tutoring(Kenya)** (September 2020 to January 2021)  
-_Private Tutor_
-
-- Motivating students
-- Communicating with school teachers
-- Liaising with parents
-- Assisting with IT issues
-- Teaching time management skills
-
-
-**Wild Wood Adventure** (February 2017 to August 2017)  
-_Instructor_
-
-- Instructing on a children’s high ropes course
-- Conducting safety briefings
-- Assisting participants
-- Collaborating on best practice
-- Training new staff
-
-
-
-**The Work and Travel Company 
-(Australia)** (January 2015 to July 2016)  
-
-- Working in numerous different fields from sales jobs 
-to construction on skyscrapers.
-- House and office removals.
+- Developed secure and compliant web and mobile app using Ruby on Rails and React-Native, demonstrating full-stack proficiency.
+- Collaborated effectively with Product team, providing regular updates on ticket ETAs and proactively communicating technical challenges to ensure successful implementation of product vision.
+- Utilised Expo's Bare workflow to build app binaries with EAS including with some native code implementation.
+- Worked with the Amazon Chime SDK to support the app's video chat feature.
+- Integrated the Detox testing framework for local e2e testing.
+- Deploy to AWS staging environments and trigger mobile app OTA updates.
+- Write unit tests with minitest.
+- Worked within an Agile Scrum team, working in a squad-based system.
+- Conduct regular code review's
+- Manual QA testing
+- Conducted ticket demo's to display completed work to relevant stakeholders
+- Gave daily updates on ticket progression
 
 <h1 id="education">Education</h1>
 
-#### Makers Academy (16th April 2022 to 9th September 2022)
+#### Makers Academy (16th April 2022 - 9th September 2022)
 
 The skills I developed during my time at Makers far exceeded my expectations going into this coding bootcamp. It wasn't learning how to code that I found the most beneficial but rather the array of soft skills and industry best practices that I picked up.
 
@@ -97,7 +75,7 @@ The skills I developed during my time at Makers far exceeded my expectations goi
 - Frequently paired with people on challenging tasks.
 - Picked up new programming languages and frameworks for specific projects.
 
-#### Exeter University (September 2017 to August 2020)
+#### Exeter University (September 2017 - August 2020)
 
 - BA Politics and International Relations (2:1)
 - Developed analytical skills to solve problems, process information and make informed decisions. 
