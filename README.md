@@ -22,6 +22,7 @@ After completing my degree in Politics & International Relations at the Universi
 # Technologies
 - Ruby on Rails
 - React/React Native
+- Expo/EAS
 - JavaScript/Typescript
 - Node.js
 - Express
