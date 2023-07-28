@@ -20,16 +20,15 @@ After completing my degree in Politics & International Relations at the Universi
 | **[Bank Tech Test](https://github.com/ParisMonson/bank-tech-test)** | My solution to the Bank tech test |    Ruby, Rspec          |
 
 # Technologies
-- Ruby
-- React
-- JavaScript
+- Ruby on Rails
+- React/React Native
+- JavaScript/Typescript
 - Node.js
 - Express
 - MongoDB
-- PostgreSQL
-- RSpec
-- Jest
-- MERN Stack
+- SQL(PostgreSQL/MySQL)
+- Testing frameworks(RSpec, minitest, Jest)
+- E2e testing frameworks(Detox, Cypress)
 
 <h1 id="skills">Skills</h1>
 
