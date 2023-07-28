@@ -5,9 +5,9 @@
 
 <h1 id="aboutme">About Me</h1>
 
-In my first year of experience as a full-stack web developer, I've honed my skills in software design, development, and testing, particularly with Ruby on Rails and react-native. My strong communication and problem-solving abilities have been instrumental in developing secure web and mobile applications. I'm now eager to leverage these skills and experiences to tackle new challenges in the software development field.
-
 After completing my degree in Politics & International Relations at the University of Exeter during the pandemic, I spent 2 years working in the service sector. My roles involved using critical thinking skills, honed at University, to problem solve and get the job done most efficiently. In my spare time, I furthered my aim to learn to code, an interest I had developed during the pandemic period. As my interest and knowledge of coding and software engineering developed it felt such a natural fit that I looked for a way to retrain. I truly feel my character and skills suit an industry that values logical thinking and problem solving skills. The evolutionary nature of software development and the need to stay up to date and push boundaries make this an exciting industry in which to grow my career. 
+
+In my first year of experience as a full-stack web developer, I've honed my skills in software design, development, and testing, particularly with Ruby on Rails and react-native. My strong communication and problem-solving abilities have been instrumental in developing secure web and mobile applications. I'm now eager to leverage these skills and experiences to tackle new challenges in the software development field.
 
 
 <h1 id="projects">Projects</h1>
